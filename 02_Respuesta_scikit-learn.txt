@@ -1,0 +1,3 @@
+¿Qué otros scikit-learn son compatibles con "Python 3.7.9", además del "1.13.0"
+Scikit-learn 1.0 
+Scikit-learn 1.1 

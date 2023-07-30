@@ -1,0 +1,77 @@
+*************************************************
+*****Edgar Filiberto Nava Barron/WINDOWS*********
+*************************************************
+
+>>>>Yo creare mi carpeta en el escritorio, para eso me muevo ahí
+C:\Users\Edgar F>cd desktop
+
+>>>>Creo una carpeta llamada "itesm_envs"
+C:\Users\Edgar F\Desktop>MD itesm_envs
+
+>>>>Me muevo a esa carpeta
+C:\Users\Edgar F\Desktop>cd itesm_envs
+
+>>>>Instalo Python, por default da la versión más reciente
+C:\Users\Edgar F\Desktop\itesm_envs>py -m venv venv
+
+>>>> Activamos el ambiente virtual
+venv\Scripts\activate
+
+>>>>Desactivamos ambiente virtual
+deactivate
+
+
+>>>>Vamos a instalar la version 3.7 de python
+C:\Users\Edgar F\Desktop\itesm_envs>py -3.7 -m venv venv3_7
+
+
+>>>> Activamos el ambiente virtual Python 3.7
+venv3_7\Scripts\activate
+
+>>>> Probamos comando
+pip freeze
+
+>>>>Instalamos scikit-learn
+-m pip install scikit-learn==1.3.0
+
+
+
+*************************************************
+*****ACTIVIDAD/Edgar Filiberto Nava Barron*******
+*************************************************
+
+
+>>>>Vamos a instalar la version 3.7 de python
+C:\Users\Edgar F\Desktop\itesm_envs>py -3.7 -m venv venv3_7
+
+>>>> Activamos el ambiente virtual Python 3.7
+venv3_7\Scripts\activate
+
+
+>>>Instalamos la version de librerias (Peroooooo)
+pip install -r module-2/session-3/activity/requirements-37.txt
+
+*************************************************************************
+Usamos Visual estudio
+*************************************************************************
+
+>>>>Yo creare mi carpeta en el escritorio, para eso me muevo ahí
+C:\Users\Edgar F>cd desktop
+
+>>>>Creo una carpeta llamada "itesm_envs"
+C:\Users\Edgar F\Desktop>MD itesm_mlops
+
+
+>>>>Vamos a instalar la version 3.7 de python
+C:\Users\Edgar F\Desktop\itesm_envs>py -3.7 -m venv venv3_7
+
+
+>>>> Activamos el ambiente virtual Python 3.7
+venv3_7\Scripts\activate
+
+>>>> Probamos comando para ver que tenemos instalado (no sale nada)
+pip freeze
+
+>>>>TODO LO DEMAS SE CORRE EN VISUAL ESTUDIO....
+
+
